@@ -75,7 +75,7 @@ ab-test-analysis/
 
 ```bash
 # Clone repository
-git clone https://github.com/[your-username]/ab-test-analysis.git
+git clone https://github.com/bellelin2024/ab-test-analysis.git
 cd ab-test-analysis
 
 # Install dependencies
